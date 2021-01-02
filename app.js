@@ -10,6 +10,7 @@ var absoluteVal = document.querySelector("#profitOrLossAbs");
 var percentageVal = document.querySelector("#profitLossPercentage");
 
 function calculator() {
+  console.log("Clicked");
   var a = unitCostPrice.value;
   var b = quantityOfStocks.value;
   var c = presentCostPrice.value;

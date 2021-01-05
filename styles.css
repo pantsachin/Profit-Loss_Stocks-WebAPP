@@ -33,7 +33,7 @@ body {
   font-family: "Roboto", sans-serif;
   border-top-left-radius: 1rem;
   border-top-right-radius: 1rem;
-  bottom: 0;
+  bottom: -40px;
   position: relative;
   width: 100%;
   display: block;
